@@ -9,7 +9,7 @@
 
  Author: skirmish
 
- Usage: ./remotecat.py -m <mode> hash.txt
+ Usage: ./remotecat.py -m <mode> <hashfile.txt>
 """
 
 import requests
